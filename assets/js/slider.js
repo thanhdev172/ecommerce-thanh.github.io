@@ -7,7 +7,7 @@ if (glide1Element) {
     type: "carousel",
     startAt: 0,
     perView: 1,
-    // autoplay: 3000,
+    autoplay: 3000,
     hoverpause: true,
     animationDuration: 1000,
     animationTimingFunc: "linear",
